@@ -1,0 +1,30 @@
+{
+	"Topic": "Introducing Our Premium Dog Food",
+	"Output_Format":"url",
+	"Guidelines": {
+    "image_generation_instructions": {
+      "tone": "bright, Authentic, Inviting, Quality-focused, Modern",
+      "color_palette": "bright-toned",
+      "design_elements": {
+        "style": "Use authentic and relatable visuals, Prefer natural lighting and organic settings"
+      },
+      "quality": "High-quality images",
+      "lighting": "Natural lighting",
+      "composition": "Use Rule of Thirds for dynamic balance, Keep the focal point clear and unobstructed",
+      "subject_matter": {
+        "focus": "Diverse representation, Modern technology, Nature elements",
+        "avoid": "Violent or controversial subjects"
+      },
+      "target_audience": "Imagery should appeal to young professionals and tech-savvy individuals.",
+      "themes": ["Futuristic", "Nature-inspired", "Minimalistic", "Urban"],
+      "restrictions": {
+        "avoid": "Overly staged or artificial imagery, Stock photos that lack authenticity, Cluttered or distracting backgrounds, Overly edited or filtered images, Unappealing settings, unauthentic images that can lead to copyright infringements"
+      }
+    }
+  },
+	"Content": {
+    "heading": "Introducing Our Premium Dog Food: A Nutritious Meal for Your Furry Friend",
+    "content": "We are excited to announce the launch of our new premium dog food, specially formulated to provide your beloved pets with all the essential nutrients they need for a healthy and active life. Crafted with high-quality ingredients, our dog food is designed to support your dog's overall well-being, from strong bones and muscles to a shiny coat and healthy digestion. Whether you have a playful puppy or a senior dog, our recipe is balanced to cater to dogs of all breeds and sizes, ensuring that they get the best nutrition in every bite. \n\nOur premium dog food is made with real meat, wholesome grains, and a blend of vitamins and minerals to provide a complete and balanced diet. We pride ourselves on using no artificial flavors, colors, or preservatives, making this product a natural and safe option for your pet. The formula is enriched with omega-3 and omega-6 fatty acids to support healthy skin and coat, while antioxidants help boost your dog's immune system. With a taste dogs love and the nutrition they need, our dog food ensures that every mealtime is both delicious and beneficial for your furry friend. \n\nTo celebrate the launch of our premium dog food, we are offering an exclusive discount for first-time buyers. For a limited time, customers can enjoy a 20% discount on their first purchase when they order through our website. Simply use the promo code DOGFOOD20 at checkout to claim your discount. This is your chance to give your dog a high-quality, nutritious meal at an unbeatable price. Additionally, we are offering free samples at select pet stores, so you can try before you buy and see the difference in your dog's energy and health. \n\nWe invite you to explore our new range of dog food and see why pet owners are raving about the benefits. Visit our website to learn more about the ingredients, read testimonials from satisfied pet parents, and get tips on how to transition your dog to a new diet. Our customer care team is also available to answer any questions and help you choose the right formula for your dog's specific needs. With our premium dog food, you can be confident that you're giving your dog the best nutrition for a long and happy life."
+  }
+ 
+}
